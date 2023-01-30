@@ -10,7 +10,7 @@
 <h3 align="left">Projects:</h3>
 
 <h4 align="left">Java</h4>
-<a href="[https://adminpacientesreactmtrz.netlify.app](https://grupo4mastersport-production.up.railway.app/api/v1/inicio)" target="blank">Ecommerce with Spring Boot</a>
+<a href="https://grupo4mastersport-production.up.railway.app/api/v1/inicio" target="_blank">Ecommerce with Spring Boot</a>
 
 <h4 align="left">React</h4>
-<a href="https://adminpacientesreactmtrz.netlify.app" target="blank">Clients Admin</a>
+<a href="https://adminpacientesreactmtrz.netlify.app" target="_blank">Clients Admin</a>
