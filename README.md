@@ -10,11 +10,11 @@
 <h3 align="left">Projects:</h3>
 
 <h4 align="left">Java</h4>
-<a href="https://grupo4mastersport-production.up.railway.app/api/v1/inicio" target="_blank">Ecommerce with Spring Boot</a>
+<li> <a href="https://grupo4mastersport-production.up.railway.app/api/v1/inicio" target="_blank">Ecommerce with Spring Boot</a> </li>
 
 <h4 align="left">React</h4>
-<a href="https://adminpacientesreactmtrz.netlify.app" target="_blank">Clients Admin</a>
+<li> <a href="https://adminpacientesreactmtrz.netlify.app" target="_blank">Clients Admin</a></li>
 
 
 <h4 align="left">Other Projects</h4>
-<a href="https://grupo11-global-simulacion.netlify.app" target="_blank">Simulation Course </a>
+<li> <a href="https://grupo11-global-simulacion.netlify.app" target="_blank">Simulation Course </a></li>
