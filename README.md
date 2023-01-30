@@ -7,4 +7,10 @@
 <a href="https://www.linkedin.com/in/maximiliano-rivero-zuin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-rivero-zuin/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Projects:</h3>
 
+<h4 align="left">Java</h4>
+Ecommerce with Spring Boot: bit.ly/3jgME52
+
+<h4 align="left">React</h4>
+Clients Admin: bit.ly/3HGaPmZ
