@@ -14,3 +14,7 @@
 
 <h4 align="left">React</h4>
 <a href="https://adminpacientesreactmtrz.netlify.app" target="_blank">Clients Admin</a>
+
+
+<h4 align="left">Other Projects</h4>
+<a href="https://grupo11-global-simulacion.netlify.app" target="_blank">Simulation Course </a>
