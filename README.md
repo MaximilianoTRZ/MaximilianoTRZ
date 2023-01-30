@@ -10,7 +10,7 @@
 <h3 align="left">Projects:</h3>
 
 <h4 align="left">Java</h4>
-Ecommerce with Spring Boot: bit.ly/3jgME52
+Ecommerce with Spring Boot: <a href="bit.ly/3jgME52" target="blank"> bit.ly/3jgME52 </a>
 
 <h4 align="left">React</h4>
-Clients Admin: bit.ly/3HGaPmZ
+Clients Admin: <a href="bit.ly/3HGaPmZ" target="blank">  bit.ly/3HGaPmZ  </a>
