@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Maximiliano 💻</h1>
-<h3 align="center">A passionate software engineering student from Argentina. </h3>
+<h1 align="center">Hi, I'm Maximiliano⚡ </h1>
+<h3 align="center">A passionate software engineering student from Argentina 🚀 </h3>
 
 
 <h3 align="left">Connect with me:</h3>
