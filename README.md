@@ -8,21 +8,3 @@
 </p>
 
 <h3 align="left">Personal Website:</h3> <a href="https://maximilianoriverozuin.com/" target="_blank">maximilianoriverozuin.com</a>
-
-<h3 align="left">Projects:</h3>
-
-<h4 align="left">Java</h4>
-<li> <a href="https://grupo4mastersport-production.up.railway.app/api/v1/inicio" target="_blank">Ecommerce with Spring Boot Hosteado</a> - <a href="https://github.com/MaximilianoTRZ/grupo_4_MasterSport" target="_blank">Source Code</a></li>
-
-<h4 align="left">Node JS Bootcamp en Naranja X</h4>
-<li> <a href="https://gitlab.com/maximiliano-rivero-zuin" target="_blank">Challenge Node JS - Naranja X </a> </li>
-
-<h4 align="left">Python</h4>
-<li> <a href="https://github.com/MaximilianoTRZ/DjangoGeneration_Example" target="_blank">Microservices Example with Django REST Framework</a> </li>
-
-<h4 align="left">React</h4>
-<li> <a href="https://adminpacientesreactmtrz.netlify.app" target="_blank">Clients Admin</a></li>
-
-
-<h4 align="left">Other Projects</h4>
-<li> <a href="https://grupo11-global-simulacion.netlify.app" target="_blank">Simulation Course </a></li>
