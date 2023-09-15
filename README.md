@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Maximiliano⚡ </h1>
 <h3 align="center">A passionate Software Developer from Argentina 🚀 </h3>
-I'm currently working as a Backend Software Developer and learning Blockchain Development.
+<h4 align="center">I'm currently working as a Backend Software Developer and learning Blockchain Development.</h4>
+
 
 
 <h3 align="left">Connect with me:</h3>
