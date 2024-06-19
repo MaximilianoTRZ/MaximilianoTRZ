@@ -6,6 +6,8 @@
 
 🎓 Soy *Ingeniero en Sistemas de Información graduado en UTN FRM*, enfocado en Desarrollo Backend y con interés de extender mi experiencia a desarrollo Frontend, para seguir creciendo técnicamente en arquitectura de software.
 
+🛠️ Tengo experiencia en desarrollo Backend con Java implementando microservicios utilizando Docker, Kubernetes y Google Cloud Platform. Además, tengo experiencia en Ingeniería de Datos con Python y SQL utilizando servicios de Azure como Data Factory y Databricks. 
+
 📚 Elegí la carrera de Ingeniería en Sistemas de Información ya que me permitía resolver las preguntas que surgían diariamente al usar algún dispositivo informático y utilizar la potencia de la computación para dar soluciones a problemas reales.
 
 💻 Durante mis primeros años de estudio adquirí una *sólida base* en *algoritmos, lógica,  estructura de datos y programación* a través de las materias iniciales de mi carrera y cursos de programación dictados por la academia de la universidad para saciar mi curiosidad por continuar aprendiendo. Luego fui profundizando estos conocimientos cursando materias como *Taller de Programación Avanzada*, *Computación Paralela* y *Desarrollo de Software Dirigido por Modelos* en la *universidad*, y tomando *cursos* por cuenta propia de *Frontend con React*.
