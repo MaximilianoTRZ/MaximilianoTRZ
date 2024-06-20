@@ -71,4 +71,4 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-rivero-zuin/)
 
-[![linkedin](https://img.shields.io/badge/MEDIUM-black.svg?style=for-the-badge&logo=Medium)](maxtrz-dev.medium.com)
+[![linkedin](https://img.shields.io/badge/MEDIUM-black.svg?style=for-the-badge&logo=Medium)](https://maxtrz-dev.medium.com/)
