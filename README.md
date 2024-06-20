@@ -23,7 +23,7 @@
 - NodeJS - Express
 ### Cloud
 - Google Cloud Platform
-### Databases
+### DBs
 - PostgreSQL
 - MySQL
 - MongoDB
