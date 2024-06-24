@@ -12,7 +12,7 @@
 
 💻 Durante mis primeros años de estudio adquirí una *sólida base* en *algoritmos, lógica,  estructura de datos y programación* a través de las materias iniciales de mi carrera y cursos de programación dictados por la academia de la universidad para saciar mi curiosidad por continuar aprendiendo. Luego fui profundizando estos conocimientos cursando materias como *Taller de Programación Avanzada*, *Computación Paralela* y *Desarrollo de Software Dirigido por Modelos* en la *universidad*, y tomando *cursos* por cuenta propia de *Frontend con React*.
 
-👨🏻‍🏫 Me gusta practicar el *Inglés* y los últimos años me he dedicado a seguir avanzando en este lenguaje, llegando a un nivel *B2 - Upper Intermediate*  cursando en la *Universidad Nacional de Cuyo*.
+👨🏻‍🏫 Los últimos años me he dedicado a seguir avanzando en *Inglés*, llegando a un nivel *B2 - Upper Intermediate*  cursando en la *Universidad Nacional de Cuyo*.
 
 💡 Actualmente, busco desafíos que me permitan desarrollar mis habilidades en Desarrollo de Software, y crecer tanto como profesional y como persona. Estoy interesado en trabajar en proyectos innovadores que contribuyan al éxito de la organización, colaborando con equipos talentosos y asumiendo roles de liderazgo. Además, estoy dispuesto a aprender nuevas tecnologías y adaptarme a entornos dinámicos para alcanzar objetivos ambiciosos.
 
