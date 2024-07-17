@@ -1,5 +1,5 @@
 # Hola, soy Maximiliano Rivero Zuin! 💻
-# Systems Engineer | FullStack Software Developer 
+# Systems Engineer | Fullstack Software Developer 
 
 # 🚀 About Me
 🙋🏻‍♂️ ¡Buenas! Soy Maximiliano Rivero Zuin.
