@@ -4,7 +4,7 @@
 # 🚀 About Me
 🙋🏻‍♂️ ¡Buenas! Soy Maximiliano Rivero Zuin.
 
-🎓 Soy *Ingeniero en Sistemas de Información graduado en UTN FRM*, enfocado en Desarrollo Backend y con interés de extender mi experiencia a desarrollo Frontend, para seguir creciendo técnicamente en arquitectura de software.
+🎓 Soy *Ingeniero en Sistemas de Información graduado en UTN FRM*, enfocado en Desarrollo Backend y conocimientos en Frontend, interesado en expandir mi experiencia en desarrollo de software y aprender nuevas tecnologías para seguir creciendo técnicamente en arquitectura de software.
 
 🛠️ Tengo experiencia en desarrollo Backend con Java implementando microservicios utilizando Docker, Kubernetes y Google Cloud Platform. Además, tengo experiencia en Ingeniería de Datos con Python y SQL utilizando servicios de Azure como Data Factory y Databricks. 
 
