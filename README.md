@@ -2,20 +2,19 @@
 # Systems Engineer | Fullstack Software Developer 
 
 # 🚀 About Me
-🙋🏻‍♂️ ¡Buenas! Soy Maximiliano Rivero Zuin.
+🙋🏻‍♂️ Hi there! I am Maximiliano Rivero Zuin.
 
-🎓 Soy *Ingeniero en Sistemas de Información graduado en UTN FRM*, enfocado en Desarrollo Backend y conocimientos en Frontend, interesado en expandir mi experiencia en desarrollo de software y aprender nuevas tecnologías para seguir creciendo técnicamente en arquitectura de software.
+🎓 I am an Information Systems Engineer graduated from UTN FRM, focused on Backend Development with knowledge in Frontend. I am interested in expanding my experience in software development and learning new technologies to continue growing technically in software architecture.
 
-🛠️ Tengo experiencia en desarrollo Backend con Java implementando microservicios utilizando Docker, Kubernetes y Google Cloud Platform. Además, tengo experiencia en Ingeniería de Datos con Python y SQL utilizando servicios de Azure como Data Factory y Databricks. 
+🛠️ I have experience in Backend development with Java, implementing microservices using Docker, Kubernetes, and Google Cloud Platform. Additionally, I have experience in Data Engineering with Python and SQL using Azure services like Data Factory and Databricks.
 
-📚 Elegí la carrera de Ingeniería en Sistemas de Información ya que me permitía resolver las preguntas que surgían diariamente al usar algún dispositivo informático y utilizar la potencia de la computación para dar soluciones a problemas reales.
+📚 I chose the Information Systems Engineering career because it allowed me to answer questions that arose daily when using some computing device and to use the power of computing to provide solutions to real problems.
 
-💻 Durante mis primeros años de estudio adquirí una *sólida base* en *algoritmos, lógica,  estructura de datos y programación* a través de las materias iniciales de mi carrera y cursos de programación dictados por la academia de la universidad para saciar mi curiosidad por continuar aprendiendo. Luego fui profundizando estos conocimientos cursando materias como *Taller de Programación Avanzada*, *Computación Paralela* y *Desarrollo de Software Dirigido por Modelos* en la *universidad*, y tomando *cursos* por cuenta propia de *Frontend con React*.
+💻 During my first years of study, I acquired a solid foundation in algorithms, logic, data structure, and programming through the initial subjects of my career and programming courses taught by the university's academy to satisfy my curiosity for continuous learning. Later, I deepened this knowledge by taking subjects such as Advanced Programming Workshop, Parallel Computing, and Model-Driven Software Development at the university, and taking self-taught courses in Frontend with React.
 
-👨🏻‍🏫 Los últimos años me he dedicado a seguir avanzando en *Inglés*, llegando a un nivel *B2 - Upper Intermediate*  cursando en la *Universidad Nacional de Cuyo*.
+👨🏻‍🏫 In recent years, I have focused on advancing in English, reaching a B2 - Upper Intermediate level by studying at the National University of Cuyo.
 
-💡 Actualmente, busco desafíos que me permitan desarrollar mis habilidades en Desarrollo de Software, y crecer tanto como profesional y como persona. Estoy interesado en trabajar en proyectos innovadores que contribuyan al éxito de la organización, colaborando con equipos talentosos y asumiendo roles de liderazgo. Además, estoy dispuesto a aprender nuevas tecnologías y adaptarme a entornos dinámicos para alcanzar objetivos ambiciosos.
-
+💡 Currently, I am looking for challenges that allow me to develop my skills in Software Development and grow both professionally and personally. I am interested in working on innovative projects that contribute to the success of the organization, collaborating with talented teams, and assuming leadership roles. Additionally, I am willing to learn new technologies and adapt to dynamic environments to achieve ambitious goals.
 
 # ⚡ Skills
 ### Backend
