@@ -17,7 +17,7 @@
 💡 Currently, I am looking for challenges that allow me to develop my skills in Software Development and grow both professionally and personally. I am interested in working on innovative projects that contribute to the success of the organization, collaborating with talented teams, and assuming leadership roles. Additionally, I am willing to learn new technologies and adapt to dynamic environments to achieve ambitious goals.
 
 # ⚡ Skills
-| **Area** | **Tecnologías** |
+| **Area** | **Technologies** |
 | ------------- | --------------- |
 | **Backend**   | Java, Spring Boot, Spring Cloud, Hibernate, NodeJS, Express |
 | **Cloud**     | Google Cloud Platform |
