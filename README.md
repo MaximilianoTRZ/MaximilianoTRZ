@@ -17,30 +17,16 @@
 💡 Currently, I am looking for challenges that allow me to develop my skills in Software Development and grow both professionally and personally. I am interested in working on innovative projects that contribute to the success of the organization, collaborating with talented teams, and assuming leadership roles. Additionally, I am willing to learn new technologies and adapt to dynamic environments to achieve ambitious goals.
 
 # ⚡ Skills
-### Backend
-- Java - Spring Boot - Hibernate
-- NodeJS - Express
-### Cloud
-- Google Cloud Platform
-### DBs
-- PostgreSQL
-- MySQL
-- MongoDB
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
-- ReactJS
-### Otros
-- Git
-- Docker
-- Kubernetes
-- JUnit
-- Jenkins
+| **Area** | **Tecnologías** |
+| ------------- | --------------- |
+| **Backend**   | Java, Spring Boot, Spring Cloud, Hibernate, NodeJS, Express |
+| **Cloud**     | Google Cloud Platform |
+| **DBs**       | PostgreSQL, MySQL, MongoDB |
+| **Frontend**  | HTML, CSS, JavaScript, Tailwind CSS, ReactJS |
+| **Otros**     | Git, Docker, Kubernetes, JUnit, Jenkins, RabbitMQ |
 
+<!-- 
 # 🗺️ Learning Roadmap
-
 - Aprendiendo a programar en Java (Academias UTN)
 - Algoritmos y estructura de datos (UTN FRM)
 - Paradigmas de la programación (UTN FRM)
@@ -55,13 +41,14 @@
 - Librería ReactJS (FreeCodeCamp - Autodidacta)
 - Tailwind CSS con Reactjs (FreeCodeCamp - Autodidacta)
 - Programación de Smart Contracts en Solidity - Blockchain (Universidad Champagnat)
+-->
 
 ## 🙋🏻‍♂️ Teammates Feedback
 
 | Nombre       | Cargo                | Comentario | LinkedIn |
 |--------------|----------------------|------------|----------|
-| Pablo Petracini | Project Lead Dev at Sitrack | "I enthusiastically endorse Maxi for his exceptional adaptability and professionalism in our recent project. His seamless integration into diverse challenges and his ability to energize the team are truly commendable. Maxi´s analytical approach and technical proficiency significantly advanced our project... "<a href="https://www.linkedin.com/in/maximiliano-rivero-zuin/details/recommendations/?detailScreenTabIndex=0#:~:text=On-,I%20enthusiastically%20endorse%20Maxi,-for%20his%20exceptional" target="_blank">**see more**</a> | <a href="https://www.linkedin.com/in/maximiliano-rivero-zuin/details/recommendations/?detailScreenTabIndex=0#:~:text=On-,I%20enthusiastically%20endorse%20Maxi,-for%20his%20exceptional" target="_blank">LinkedIn</a>
-| Paola Mariscal Zegarra | Team Lead & Product Owner at Cervecería y Malteria Quilmes | "Tuve el agrado de trabajar con Maxi en Cervecería y Malteria Quilmes y destaco su gran responsabilidad y compromiso con los objetivos planteados tanto para su rol como para brindar una mano a sus compañeros de equipo...  <a href="https://www.linkedin.com/in/maximiliano-rivero-zuin/details/recommendations/?detailScreenTabIndex=0#:~:text=On-,Tuve%20el%20agrado%20de%20trabajar%20con%20Maxi%20en%20Cervecer%C3%ADa%20y%20Malteria%20Quilmes,-y%20destaco%20su"  target="_blank">**see more**</a> | <a href="https://www.linkedin.com/in/maximiliano-rivero-zuin/details/recommendations/?detailScreenTabIndex=0#:~:text=On-,Tuve%20el%20agrado%20de%20trabajar%20con%20Maxi%20en%20Cervecer%C3%ADa%20y%20Malteria%20Quilmes,-y%20destaco%20su" target="_blank">LinkedIn</a> |
+| Pablo Petracini | Project Lead Dev at Sitrack | "I enthusiastically endorse Maxi for his exceptional adaptability and professionalism in our recent project. His seamless integration into diverse challenges and his ability to energize the team are truly commendable. Maxi´s analytical approach and technical proficiency significantly advanced our project..." <a href="https://www.linkedin.com/in/maximiliano-rivero-zuin/details/recommendations/?detailScreenTabIndex=0#:~:text=On-,I%20enthusiastically%20endorse%20Maxi,-for%20his%20exceptional" target="_blank"> **see more**</a> | <a href="https://www.linkedin.com/in/maximiliano-rivero-zuin/details/recommendations/?detailScreenTabIndex=0#:~:text=On-,I%20enthusiastically%20endorse%20Maxi,-for%20his%20exceptional" target="_blank">LinkedIn</a>
+| Paola Mariscal Zegarra | Team Lead & Product Owner at Cervecería y Malteria Quilmes | "Tuve el agrado de trabajar con Maxi en Cervecería y Malteria Quilmes y destaco su gran responsabilidad y compromiso con los objetivos planteados tanto para su rol como para brindar una mano a sus compañeros de equipo..." <a href="https://www.linkedin.com/in/maximiliano-rivero-zuin/details/recommendations/?detailScreenTabIndex=0#:~:text=On-,Tuve%20el%20agrado%20de%20trabajar%20con%20Maxi%20en%20Cervecer%C3%ADa%20y%20Malteria%20Quilmes,-y%20destaco%20su"  target="_blank"> **see more**</a> | <a href="https://www.linkedin.com/in/maximiliano-rivero-zuin/details/recommendations/?detailScreenTabIndex=0#:~:text=On-,Tuve%20el%20agrado%20de%20trabajar%20con%20Maxi%20en%20Cervecer%C3%ADa%20y%20Malteria%20Quilmes,-y%20destaco%20su" target="_blank">LinkedIn</a> |
 
 
 
