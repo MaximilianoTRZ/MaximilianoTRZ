@@ -19,7 +19,7 @@
 # ⚡ Skills
 | **Area** | **Technologies** |
 | ------------- | --------------- |
-| **Backend**   | Java, Spring Boot, Spring Cloud, Hibernate, NodeJS, Express |
+| **Backend**   | Java, Spring Boot, Hibernate, NodeJS, Express |
 | **Cloud**     | Google Cloud Platform |
 | **DBs**       | PostgreSQL, MySQL, MongoDB |
 | **Frontend**  | HTML, CSS, JavaScript, Tailwind CSS, ReactJS |
