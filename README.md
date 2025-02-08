@@ -8,7 +8,7 @@ I have experience in Backend development with **Java (Spring Boot), microservice
 
 I’m currently looking for innovative projects where I can grow both professionally and personally, contributing to the organization’s success and collaborating with dynamic teams.
 
-## 🙋🏻‍♂️ Feedback  
+## Feedbacks
 | **Name** | **Role** | **Comment** | **LinkedIn** |
 | --- | --- | --- | --- |
 | Pablo Petracini | Project Lead Dev, Sitrack | "Maxi's adaptability and technical skills were essential to the success of our project." | <a href="https://www.linkedin.com/in/maximiliano-rivero-zuin/details/recommendations/?detailScreenTabIndex=0#:~:text=On-,I%20enthusiastically%20endorse%20Maxi,-for%20his%20exceptional" target="_blank">LinkedIn</a> |
