@@ -16,5 +16,5 @@ I’m currently looking for innovative projects where I can grow both profession
 | **More feedbacks on LinkedIn** | ... | ... | [LinkedIn](https://www.linkedin.com/in/maximiliano-rivero-zuin/details/recommendations) |
 
 
-## 🔗 Contact  
+## Contact  
 [Portfolio](https://maximilianoriverozuin.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/maximiliano-rivero-zuin/) | [Medium](https://maxtrz-dev.medium.com/)
