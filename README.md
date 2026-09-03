@@ -1,5 +1,5 @@
 # Maximiliano Rivero Zuin 💻 
-**Systems Engineer | Senior Software Engineerr**  
+**Systems Engineer | Senior Software Engineer**  
 
 ## 🚀 About Me
 I’m Maximiliano Rivero Zuin, a Systems Engineer graduate from UTN FRM, specialized in Backend with knowledge in Frontend. I’m passionate about software development and focused on learning emerging technologies and improving software architecture.
