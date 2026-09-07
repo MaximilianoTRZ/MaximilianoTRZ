@@ -6,7 +6,7 @@ I’m Maximiliano Rivero Zuin, a Systems Engineer graduate from UTN FRM, special
 
 I'm particularly interested in the fintech and blockchain space, where technology and innovation have the potential to positively impact and transform society.
 
-I have experience in Backend development with **Java 21 (Spring Boot 3), microservices (AWS, Docker, Kubernetes)**, and Data Engineering (Python, SQL, Azure). I am also driven by providing technological solutions to solve real-world problems.
+I have experience in Backend development with **Python 3 (FastAPI) and Java 21 (Spring Boot 3), microservices (AWS, Docker, Kubernetes)**, and Data Engineering (Python, SQL, Azure). I am also driven by providing technological solutions to solve real-world problems.
 
 ## Contact  
 [Portfolio](https://maximilianoriverozuin.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/maximiliano-rivero-zuin/) | [Medium](https://maxtrz-dev.medium.com/)
